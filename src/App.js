@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub Actions! Test Actions in pull request. 
+          Aula GitHub Actions! Test Actions in pull request2. 
         </p>
         <a
           className="App-link"
