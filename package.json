@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://es2-ufpi.github.io/test_aula_actions_test/",
+  "homepage": "https://es2-ufpi.github.io/aula_actions_test/",
 
   "scripts": {
     "start": "react-scripts start",
